@@ -104,8 +104,7 @@
 
 .service-item {
     position: relative;
-    height: 400px;
-    padding: 0 30px;
+    padding: 10px 30px;
     transition: .5s;
 }
 
